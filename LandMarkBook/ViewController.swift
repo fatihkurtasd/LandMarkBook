@@ -40,6 +40,7 @@ class ViewController: UIViewController,UITableViewDataSource, UITableViewDelegat
         landmarkImages.append(UIImage(named: "kremlin.jpg")!)
         landmarkImages.append(UIImage(named: "stonehenge.jpg")!)
         landmarkImages.append(UIImage(named: "tajmahal.jpg")!)
+        navigationItem.title="Fatih's LandMark Book"
         
     }
     
